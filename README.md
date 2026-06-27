@@ -26,7 +26,7 @@ Me apasiona construir herramientas eficientes combinando desarrollo web, automat
 - **La Solución:** Implementación de un módulo de IA generativa que procesa evidencias adjuntas y notas de reunión para generar documentación automatizada, reduciendo drásticamente los tiempos operativos.
 - **Stack:** PHP, MySQL, IA Generativa (API), HTML/CSS, Bootstrap.
 
-### 🛒 [E-commerce con Inventario Automatizado](https://github.com/lorennaleonhu/E-Commerce-pietra)
+### 🛒 [E-commerce con Inventario Automatizado](https://lorennaleonhu.github.io/E-Commerce-pietra/)
 *Aplicación web responsive orientada a negocios locales para la autogestión de stock sin fricción técnica.*
 - **El Problema:** Los pequeños commerce necesitan actualizar catálogos constantemente pero carecen de conocimientos técnicos para gestionar bases de datos complejas.
 - **La Solución:** Conexión de la interfaz web a una hoja de cálculo mediante la API de Google Sheets, permitiendo al cliente actualizar precios y stock en tiempo real directamente desde un Excel.
